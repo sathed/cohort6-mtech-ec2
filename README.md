@@ -170,7 +170,7 @@ Password: mtech_cohort6
 Database Name: postgres
 Site Title: <your name(s)> (e.g. Clint)
 
-Optional Settings:
+Under Optional Settings:
 * Fill out the Administrator Account Settings. 
   * You can use a fake email. It doesn't actually do anything except update some tables in the database.
 ```
